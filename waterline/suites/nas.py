@@ -5,7 +5,6 @@ import waterline.utils
 import shutil
 
 baseline_flags = [
-    "-std=c89",
     "-O1",
     "-Xclang",
     "-disable-llvm-passes",
